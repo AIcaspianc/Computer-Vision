@@ -5,7 +5,7 @@ This dataset contains 60,000 color images, each sized at 32x32 pixels, distribut
  https://www.cs.toronto.edu/~kriz/cifar.html
  
 
-Due to the low resolution (32x32 pixels) of the images, CIFAR-10 is particularly useful for researchers to efficiently experiment with various algorithms, including different types of convolutional neural networks, which have shown high effectiveness in recognizing the images in this dataset.
+Due to the low resolution (32x32 pixels) of the images, CIFAR-10 is particularly useful for researchers to efficiently experiment with various algorithms, including different types of convolutional neural networks, which have shown high effectiveness in recognizing the images in this dataset. 
 
 
 In this case study, we will build a multi-class classification algorithm to predict 10 different classes of the CIFAR-10 dataset using 
