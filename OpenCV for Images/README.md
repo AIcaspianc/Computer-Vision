@@ -21,4 +21,4 @@
 
 
 
-### We would encourage you to first go through the functions and operations discussed below, and then try to implement and practise the same on other images.
+
