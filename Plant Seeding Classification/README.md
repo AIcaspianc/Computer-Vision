@@ -2,6 +2,7 @@
 **Introduction**
 
 
+
 In the realm of computer vision and machine learning, the ability to accurately classify images is a cornerstone of technological advancement. The CIFAR-10 dataset, an esteemed collection developed by the Canadian Institute For Advanced Research, presents a unique opportunity for exploring and refining image classification techniques. This case study delves into the intricacies of the CIFAR-10 dataset, aiming to harness its potential in teaching computers to recognize and differentiate between various object categories.
 
 **Objective**
