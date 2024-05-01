@@ -1,4 +1,5 @@
 ## **OpenCV**
+
 - **OpenCV** is a huge open-source **library** for **computer vision**, **machine learning**, and **image processing**.
 -  It can process images and videos to identify objects, faces, or even human handwriting.
 - It can also be integrated with other libraries such as **Numpy** (Python), which are capable of processing the OpenCV array structure.
