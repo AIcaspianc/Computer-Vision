@@ -1,4 +1,4 @@
-Problem Statement - Food Image Classification 
+# Problem Statement - Food Image Classification 
 
 **Case Study: Food Image Classification**
 
