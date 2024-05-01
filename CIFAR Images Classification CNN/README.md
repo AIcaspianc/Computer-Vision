@@ -1,4 +1,4 @@
-
+ 
 CIFAR-10, created by the Canadian Institute For Advanced Research, is a dataset comprising images in 10 distinct categories: airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. It serves as a resource for training computers in object recognition.
 
 This dataset contains 60,000 color images, each sized at 32x32 pixels, distributed equally across the 10 categories, with 6,000 images per class. Out of these, 50,000 images are designated for training purposes, while the remaining 10,000 are used for testing. Additional details about CIFAR-10 can be found at this link: CIFAR-10 Dataset.
